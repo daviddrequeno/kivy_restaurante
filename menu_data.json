@@ -1,0 +1,56 @@
+{
+  "restaurante": "El Buen Sabor",
+  "categorias": [
+    {
+      "nombre": "Comidas",
+      "productos": [
+        {
+          "nombre": "Hamburguesa Clásica",
+          "precio": 8.5
+        },
+        {
+          "nombre": "Pizza Margherita",
+          "precio": 12.0
+        },
+        {
+          "nombre": "Pasta Carbonara",
+          "precio": 10.5
+        }
+      ]
+    },
+    {
+      "nombre": "Bebidas",
+      "productos": [
+        {
+          "nombre": "Coca-Cola",
+          "precio": 2.5
+        },
+        {
+          "nombre": "Jugo Natural de Naranja",
+          "precio": 3.0
+        },
+        {
+          "nombre": "Café Americano",
+          "precio": 2.0
+        }
+      ]
+    },
+    {
+      "nombre": "Postres",
+      "productos": [
+        {
+          "nombre": "Tarta de Chocolate",
+          "precio": 5.5
+        },
+        {
+          "nombre": "Helado de Vainilla",
+          "precio": 4.0
+        },
+        {
+          "nombre": "Cheesecake",
+          "precio": 6.0
+        }
+      ]
+    }
+  ]
+}
